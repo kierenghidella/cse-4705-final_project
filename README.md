@@ -1,2 +1,2 @@
-# cse-4820-project
-Workplace for all CSE 4820 Project related stuff :)
+# cse-4705-project
+Workplace for all CSE 4705 Project related stuff :)
